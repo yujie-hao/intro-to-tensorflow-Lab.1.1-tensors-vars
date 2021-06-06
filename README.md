@@ -10,8 +10,12 @@
 - Lab.2-1: load csv file and numpy data
   - load a CSV file into a tf.data.Dataset
   - load Numpy data
-- Lab.2-1: load images using tf.Data.Dataset
+- Lab.2-2: load images using tf.Data.Dataset
   - retrieve Images using tf.keras.utils.get_file
   - load Images using Keras Pre-Processing
   - load Images using tf.Data.Dataset
   - use basic Methods for Training: shuffle(), cache(),  prefetch(), batch()
+- Lab.2-3: feature columns
+  - load a CSV file using Pandas
+  - create an input pipeline using tf.data
+  - create multiple types of feature columns
