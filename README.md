@@ -19,3 +19,7 @@
   - load a CSV file using Pandas
   - create an input pipeline using tf.data
   - create multiple types of feature columns
+- Lab.2-4: TFRecord and tf.Example
+  - Understand the TFRecord format for storing data
+  - Understand the tf.Example message type
+  - Read and Write a TFRecord file 
