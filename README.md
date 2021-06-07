@@ -28,3 +28,8 @@
   - use tf.data in a training loop
   - use tf.data to read data from disk
   - write production input pipelines with feature engineering (batching, shuffling, etc.)
+- Lab.2-6: advanced tensorflow data validation and facets
+  - Use TFRecords to load record-oriented binary format data
+  - Use TFDV to generate statistics and Facets to visualize the data
+  - Use the TFDV widget to answer questions
+  - Analyze label distribution for subset groups
