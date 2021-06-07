@@ -23,3 +23,8 @@
   - Understand the TFRecord format for storing data
   - Understand the tf.Example message type
   - Read and Write a TFRecord file 
+- Lab.2-5: dataset_api
+  - use tf.data to read data from memory
+  - use tf.data in a training loop
+  - use tf.data to read data from disk
+  - write production input pipelines with feature engineering (batching, shuffling, etc.)
