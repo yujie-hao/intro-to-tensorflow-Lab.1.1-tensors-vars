@@ -33,3 +33,9 @@
   - Use TFDV to generate statistics and Facets to visualize the data
   - Use the TFDV widget to answer questions
   - Analyze label distribution for subset groups
+- Lab.3-1: Introducing the Keras Sequential API
+  - Use feature columns in a Keras model
+  - Build a DNN model using the Keras Sequential API
+  - Train a model with Keras
+  - Save/load, and deploy a Keras model on GCP
+  - Deploy and make predictions with at Keras model
