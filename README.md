@@ -39,3 +39,10 @@
   - Train a model with Keras
   - Save/load, and deploy a Keras model on GCP
   - Deploy and make predictions with at Keras model
+- Lab.3-2: Advanced Logistic Regression in TensorFlow 2.0
+  - Load a CSV file using Pandas
+  - Create train, validation, and test sets
+  - Define and train a model using Keras (including setting class weights)
+  - Evaluate the model using various metrics (including precision and recall)
+  - Try common techniques for dealing with imbalanced data: Class weighting and Oversampling
+
