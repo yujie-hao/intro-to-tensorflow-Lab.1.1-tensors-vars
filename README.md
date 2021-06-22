@@ -39,7 +39,11 @@
   - Train a model with Keras
   - Save/load, and deploy a Keras model on GCP
   - Deploy and make predictions with at Keras model
-- Lab.3-2: Advanced Logistic Regression in TensorFlow 2.0
+- Lab.3-2: Basic intro logistic regression
+  - Build a model
+  - Train this model on example data
+  - Use the model to make predictions about unknown data
+- Lab.3-3: Advanced Logistic Regression in TensorFlow 2.0
   - Load a CSV file using Pandas
   - Create train, validation, and test sets
   - Define and train a model using Keras (including setting class weights)
